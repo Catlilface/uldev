@@ -1,0 +1,156 @@
+.elementor-73 .elementor-element.elementor-element-863e343:not(.elementor-motion-effects-element-type-background), .elementor-73 .elementor-element.elementor-element-863e343 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#EEEAD5;}.elementor-73 .elementor-element.elementor-element-863e343{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0px;margin-bottom:0px;padding:65px 0px 85px 0px;}.elementor-73 .elementor-element.elementor-element-863e343 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-73 .elementor-element.elementor-element-5f02620.elementor-column > .elementor-widget-wrap{justify-content:flex-start;}.elementor-73 .elementor-element.elementor-element-b3949ce{text-align:left;}.elementor-73 .elementor-element.elementor-element-c1586ff{font-family:"Verdana", Sans-serif;font-size:16px;font-weight:400;}.elementor-73 .elementor-element.elementor-element-c1586ff > .elementor-widget-container{margin:-6px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-73 .elementor-element.elementor-element-b3ddacf .elementor-repeater-item-14c2ed5.elementor-social-icon{background-color:#02010100;}.elementor-73 .elementor-element.elementor-element-b3ddacf .elementor-repeater-item-2ba138e.elementor-social-icon{background-color:#02010100;}.elementor-73 .elementor-element.elementor-element-b3ddacf .elementor-repeater-item-2ba138e.elementor-social-icon i{color:#EEEAD5;}.elementor-73 .elementor-element.elementor-element-b3ddacf .elementor-repeater-item-2ba138e.elementor-social-icon svg{fill:#EEEAD5;}.elementor-73 .elementor-element.elementor-element-b3ddacf .elementor-repeater-item-3ebb885.elementor-social-icon{background-color:#02010100;}.elementor-73 .elementor-element.elementor-element-b3ddacf{--grid-template-columns:repeat(0, auto);--icon-size:37px;--grid-column-gap:17px;--grid-row-gap:0px;}.elementor-73 .elementor-element.elementor-element-b3ddacf .elementor-widget-container{text-align:left;}.elementor-73 .elementor-element.elementor-element-b3ddacf .elementor-social-icon{--icon-padding:0em;}.elementor-73 .elementor-element.elementor-element-b3ddacf > .elementor-widget-container{margin:05px 0px 0px 0px;}.elementor-73 .elementor-element.elementor-element-dd95246 > .elementor-element-populated{text-align:left;}.elementor-73 .elementor-element.elementor-element-2cd3983{text-align:left;font-family:"Montserrat", Sans-serif;font-size:21px;font-weight:700;}.elementor-73 .elementor-element.elementor-element-2cd3983 > .elementor-widget-container{margin:-26px 0px -38px 0px;padding:0px 0px 0px 0px;}.elementor-73 .elementor-element.elementor-element-0e6988b{font-family:"Montserrat", Sans-serif;font-size:17px;font-weight:400;}.elementor-73 .elementor-element.elementor-element-0e6988b > .elementor-widget-container{margin:-13px 0px -27px 0px;padding:0px 0px 0px 0px;}.elementor-73 .elementor-element.elementor-element-b212c3e{font-family:"Montserrat", Sans-serif;font-size:21px;font-weight:700;}.elementor-73 .elementor-element.elementor-element-b212c3e > .elementor-widget-container{margin:-26px 0px -33px 0px;}.elementor-73 .elementor-element.elementor-element-fcc65a8{font-family:"Montserrat", Sans-serif;font-size:17px;font-weight:400;}.elementor-73 .elementor-element.elementor-element-fcc65a8 > .elementor-widget-container{margin:-16px 0px -26px 0px;}.elementor-73 .elementor-element.elementor-element-87117dd{font-family:"Montserrat", Sans-serif;font-size:21px;font-weight:700;}.elementor-73 .elementor-element.elementor-element-87117dd > .elementor-widget-container{margin:-26px 0px -33px 0px;}.elementor-73 .elementor-element.elementor-element-1433999 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-73 .elementor-element.elementor-element-5403932{font-family:"Montserrat", Sans-serif;font-size:11px;font-weight:500;}.elementor-73 .elementor-element.elementor-element-eaf3e21{text-align:left;}.elementor-73 .elementor-element.elementor-element-0313cc1{font-family:"Montserrat", Sans-serif;font-size:8px;font-weight:500;}@media(min-width:768px){.elementor-73 .elementor-element.elementor-element-dd95246{width:11.667%;}.elementor-73 .elementor-element.elementor-element-4a48ab7{width:23.152%;}.elementor-73 .elementor-element.elementor-element-90b7fa3{width:40.181%;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Verdana';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('http://umnyeludy.local/wp-content/uploads/2023/03/Verdana.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Verdana';
+	font-style: italic;
+	font-weight: normal;
+	font-display: auto;
+	src: url('http://umnyeludy.local/wp-content/uploads/2023/03/Verdana-Italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Verdana';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('http://umnyeludy.local/wp-content/uploads/2023/03/Verdana-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Verdana';
+	font-style: italic;
+	font-weight: 700;
+	font-display: auto;
+	src: url('http://umnyeludy.local/wp-content/uploads/2023/03/Verdana-BoldItalic.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('http://umnyeludy.local/wp-content/uploads/2023/03/Montserrat-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 200;
+	font-display: auto;
+	src: url('http://umnyeludy.local/wp-content/uploads/2023/03/Montserrat-ExtraLight.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Montserrat';
+	font-style: italic;
+	font-weight: 200;
+	font-display: auto;
+	src: url('http://umnyeludy.local/wp-content/uploads/2023/03/Montserrat-ExtraLightItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('http://umnyeludy.local/wp-content/uploads/2023/03/Montserrat-Light.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Montserrat';
+	font-style: italic;
+	font-weight: 300;
+	font-display: auto;
+	src: url('http://umnyeludy.local/wp-content/uploads/2023/03/Montserrat-LightItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 100;
+	font-display: auto;
+	src: url('http://umnyeludy.local/wp-content/uploads/2023/03/Montserrat-Thin.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Montserrat';
+	font-style: italic;
+	font-weight: 100;
+	font-display: auto;
+	src: url('http://umnyeludy.local/wp-content/uploads/2023/03/Montserrat-ThinItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Montserrat';
+	font-style: italic;
+	font-weight: normal;
+	font-display: auto;
+	src: url('http://umnyeludy.local/wp-content/uploads/2023/03/Montserrat-Italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('http://umnyeludy.local/wp-content/uploads/2023/03/Montserrat-Medium.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Montserrat';
+	font-style: italic;
+	font-weight: 500;
+	font-display: auto;
+	src: url('http://umnyeludy.local/wp-content/uploads/2023/03/Montserrat-MediumItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('http://umnyeludy.local/wp-content/uploads/2023/03/Montserrat-SemiBold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Montserrat';
+	font-style: italic;
+	font-weight: 600;
+	font-display: auto;
+	src: url('http://umnyeludy.local/wp-content/uploads/2023/03/Montserrat-SemiBoldItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('http://umnyeludy.local/wp-content/uploads/2023/03/Montserrat-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Montserrat';
+	font-style: italic;
+	font-weight: 700;
+	font-display: auto;
+	src: url('http://umnyeludy.local/wp-content/uploads/2023/03/Montserrat-BoldItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 800;
+	font-display: auto;
+	src: url('http://umnyeludy.local/wp-content/uploads/2023/03/Montserrat-ExtraBold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 800;
+	font-display: auto;
+	src: url('http://umnyeludy.local/wp-content/uploads/2023/03/Montserrat-ExtraBoldItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 900;
+	font-display: auto;
+	src: url('http://umnyeludy.local/wp-content/uploads/2023/03/Montserrat-Black.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Montserrat';
+	font-style: italic;
+	font-weight: normal;
+	font-display: auto;
+	src: url('http://umnyeludy.local/wp-content/uploads/2023/03/Montserrat-BlackItalic.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
